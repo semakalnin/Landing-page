@@ -1,0 +1,1 @@
+https://github.com/semakalnin/semakalinin.github.io.git
