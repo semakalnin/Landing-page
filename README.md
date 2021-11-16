@@ -1,6 +1,6 @@
 # Landing-Page
 Project for Midterm.
-Link to the Website https://github.com/semakalnin/semakalinin.github.io.git
+Link to the Website https://github.com/semakalnin/semakalinin.github.io
 This is page of my lovely car. It has four sections: Главная, Характеристики, Мое мнение , Обо мне.
 It is responsive. Bootstrap 5 and Font-Awesome were used. 
 ![This is an image](/Screenshots/1.png)
